@@ -17,20 +17,19 @@ InDeKX-Edge-IDS/
 ├── frameworks/             # Posters, papers, and diagrams explaining the architecture
 │   ├── InDeKX-Architecture.png
 │   ├── InDeKX-Paper.pdf
-│   ├── InDeKX-Poster.pdf
-│
-├── datasets/               # Simulated IoT traffic used in testing
-│   ├── device_data_packets_25_nodes_specific.csv
+│   ├── InDeKX-Poster.png
+│   ├── device_data_packets_25_nodes_specific.csv   --  datasets simulated IoT traffic used in testing
 │   ├── device_data_packets_50_nodes_specific.csv
 │   ├── device_data_packets_75_nodes_specific.csv
 │   ├── device_data_packets_100_nodes_specific.csv
 │   └── indekx_traffic_simulator.py
 │
-├── README.md               # You're reading it!
+├── README.md              
 └── LICENSE
 ```
 
-## 📊 How the Datasets Were Created
+### 📊 What dataset were used for Experimentation 
+ We utilized the VARIoT Dataset of Legitimate IoT Data to simulate various types of sensor data. The dataset is modified to contain the desired number of Edge Nodes, based on unique device identifiers. Additionally, we also inject variable percentages of randomly placed anomalous data patterns to perform experimentation on the desired InDeKX functionalities.
 
 The datasets were generated using a Python script [`normalized_iot_data_generator.py`](./datasets/normalized_iot_data_generator.py) that takes real-world weather station data and normalizes it to simulate behavior from IoT devices.
 
