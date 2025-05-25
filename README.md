@@ -55,7 +55,7 @@ If you're curious about the details, check out the following resources:
 
 - 📄 [Research Paper (PDF)](InDeKX-Paper.pdf) – Full write-up of the architecture, motivation, and results
 - 🖼 [Research Poster](InDeKX-Poster.png) – A visual summary presented at a research showcase
-- 🧩 [Architecture Diagram](./frameworks/InDeKX-Architecture.png) – How everything fits together
+- 🧩 [Architecture Diagram](InDeKX-Architecture.png) – How everything fits together
 
 
 ## 🙋 Who I Am
