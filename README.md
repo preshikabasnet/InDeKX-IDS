@@ -54,7 +54,7 @@ Think of this as a **living blueprint** for anyone interested in building secure
 If you're curious about the details, check out the following resources:
 
 - 📄 [Research Paper (PDF)](./frameworks/InDeKX-Paper.pdf) – Full write-up of the architecture, motivation, and results
-- 🖼 [Research Poster](./frameworks/InDeKX-Poster.pdf) – A visual summary presented at a research showcase
+- 🖼 [Research Poster](./frameworks/InDeKX-Poster.png) – A visual summary presented at a research showcase
 - 🧩 [Architecture Diagram](./frameworks/InDeKX-Architecture.png) – How everything fits together
 
 
